@@ -23,4 +23,4 @@
 
  ⚪ Screenshot of the App: 
  
-    ![Capture](https://github.com/user-attachments/assets/ac8ad9b8-0ded-4492-9859-8499d8127db0)
+   ![Capture](https://github.com/user-attachments/assets/ac8ad9b8-0ded-4492-9859-8499d8127db0)
